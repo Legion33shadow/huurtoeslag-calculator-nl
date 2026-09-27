@@ -1,0 +1,16 @@
+{
+  "slug": "huurtoeslag-calculator-nl",
+  "country": "NL",
+  "domain": "social_policy",
+  "law_reference": "Wet op de huurtoeslag & Belastingdienst Normbedragen",
+  "sources": [
+    "https://www.belastingdienst.nl/toeslagen"
+  ],
+  "sources_health": {
+    "https://www.belastingdienst.nl/toeslagen": {
+      "status": 200,
+      "reachable": true
+    }
+  },
+  "signature_payload": "4e94641b0c17b79b6568d311df40d49b10865edd01625e9649c08b40476d6497"
+}
