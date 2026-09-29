@@ -1,0 +1,13 @@
+{
+  "slug": "huurtoeslag-calculator-nl",
+  "type": "calculator",
+  "country": "NL",
+  "category": "benefits",
+  "official_sources": [
+    "https://www.toeslagen.nl/",
+    "https://www.belastingdienst.nl/"
+  ],
+  "claim_state": "method_unverified",
+  "phoenix_ready": false,
+  "limitations": "Dutch rent benefit depends on household, income, rent and age."
+}
